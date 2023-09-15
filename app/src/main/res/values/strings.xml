@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen Concepto Movil</string>
+    <string name="hint_item_number">Numero de Objetos a Buscar</string>
+    <string name="btn_search">Buscar</string>
+    <string name="error_no_network">No hay conexión a Internet</string>
+    <string name="error_empty">Debe ingresar un número de búsqueda</string>
+    <string name="error_quantity">Debe ingresar un númmero menor a 10</string>
+    <string name="text_loading">Cargando…</string>
+    <string name="text_dialog_alert">Alerta</string>
+    <string name="btn_accept">Aceptar</string>
+</resources>
